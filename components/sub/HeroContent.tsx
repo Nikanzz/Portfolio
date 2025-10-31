@@ -2,8 +2,7 @@
 
 import React from 'react'
 import { motion } from 'framer-motion'
-import { slideInFromTop, slideInFromLeft, slideInFromRight } from '@/utils/motion'
-import { SparklesIcon } from "@heroicons/react/24/solid";
+import { slideInFromLeft, slideInFromRight } from '@/utils/motion'
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import Image from "next/image";
 
@@ -12,13 +11,13 @@ const HeroContent = () => {
     <motion.div
     initial='hidden'
     animate='visible'
-    className='flex flex-row gap-10 items-center justify-center px-20 mt-40 w-full z-[-20]'>
+    className='flex flex-row gap-10 items-center justify-center px-20 mt-40 w-full'>
         <div className='h-full w-full flex flex-col items-start justify-center gap-5 m-auto text-start'>
             <motion.div
             variants={slideInFromLeft(0.5)}
             className='flex flex-col gap-6 mt-6 text-5xl font-bold text-white max-w-[600px] w-auto h-auto'>
                 <span>
-                    Hi, my name is
+                    Hi, my name is <br></br>
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
                     {" "}
                     Jeremia Pinnywan Immanuel{" "}
@@ -35,8 +34,8 @@ const HeroContent = () => {
             <motion.div
             variants={slideInFromLeft(0.9)}
             className='flex flex-row gap-6'>
-                <motion.a href='https://github.com/Nikanzz'><FaGithub className='h-15 w-15 text-gray-800 hover:text-gray-600 cursor-pointer'></FaGithub></motion.a>
-                <motion.a href='https://www.linkedin.com/in/jeremia-pinnywan-immanuel/'><FaLinkedin className='h-15 w-15 text-gray-800 hover:text-gray-600 cursor-pointer'></FaLinkedin></motion.a>
+                <a href='https://github.com/Nikanzz' className='cursor-pointer'><FaGithub className='h-15 w-15 text-gray-800 hover:text-gray-600'></FaGithub></a>
+                <a href='https://www.linkedin.com/in/jeremia-pinnywan-immanuel/' className='cursor-pointer'><FaLinkedin className='h-15 w-15 text-gray-800 hover:text-gray-600'></FaLinkedin></a>
             </motion.div>
         </div>
 
