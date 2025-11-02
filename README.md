@@ -31,7 +31,7 @@ To run this project in your local environment, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Nikanzz/Jeremia-Portfolio.git](https://github.com/Nikanzz/Jeremia-Portfolio.git))
+    git clone [https://github.com/Nikanzz/Jeremia-Portfolio.git](https://github.com/Nikanzz/Jeremia-Portfolio.git)
     ```
 
 2.  **Navigate to the project directory:**
