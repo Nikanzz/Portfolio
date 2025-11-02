@@ -1,63 +1,63 @@
-# Portofolio Pribadi - Jeremia Pinnywan Immanuel
+# Personal Portfolio - Jeremia Pinnywan Immanuel
 
-Repositori ini berisi kode untuk situs portofolio pribadi saya, yang dibuat untuk menampilkan proyek, keahlian, dan perjalanan saya sebagai seorang *Computer Science undergraduate*. Situs ini dirancang agar interaktif, responsif, dan menyoroti minat saya di bidang AI, Machine Learning, Networking, dan Cybersecurity.
-
----
-
-## 🚀 Fitur Utama
-
-* **Desain Responsif:** Tampilan yang sepenuhnya adaptif di perangkat desktop, tablet, maupun mobile.
-* **Animasi Interaktif:** Dibuat dengan **Framer Motion** untuk *user experience* yang dinamis (animasi *slide-in*, *on-scroll*, dan *hover*).
-* **Latar Belakang Video:** Menampilkan latar belakang video *blackhole* yang menarik di bagian *Hero*.
-* **Struktur Komponen:** Dibangun dengan komponen React yang modular dan *reusable* (Navbar, Hero, Skills, Projects, Footer).
-* **SEO Friendly:** Dibuat dengan Next.js yang mendukung *Server-Side Rendering* (SSR).
+This repository contains the code for my personal portfolio website, built to showcase my projects, skills, and my journey as a Computer Science undergraduate. This site is designed to be interactive, responsive, and highlights my passion for AI, Machine Learning, Networking, and Cybersecurity.
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🚀 Key Features
+
+* **Responsive Design:** Fully adaptive layout for desktop, tablet, and mobile devices.
+* **Interactive Animations:** Built with **Framer Motion** for a dynamic user experience (slide-ins, on-scroll, and hover animations).
+* **Video Background:** Features an engaging blackhole video background in the Hero section.
+* **Component-Based:** Built with modular and reusable React components (Navbar, Hero, Skills, Projects, Footer).
+* **SEO Friendly:** Built with Next.js for Server-Side Rendering (SSR).
+
+---
+
+## 🛠️ Tech Stack
 
 * **Framework:** Next.js 14
-* **Bahasa:** TypeScript
+* **Language:** TypeScript
 * **Styling:** Tailwind CSS
-* **Animasi:** Framer Motion
-* **Ikon:** React Icons
+* **Animation:** Framer Motion
+* **Icons:** React Icons
 * **Deployment:** Vercel
 
 ---
 
-## ⚙️ Menjalankan Secara Lokal
+## ⚙️ Running Locally
 
-Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah berikut:
+To run this project in your local environment, follow these steps:
 
-1.  **Clone repositori:**
+1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Nikanzz/nama-repo-anda.git](https://github.com/Nikanzz/nama-repo-anda.git)
+    git clone [https://github.com/Nikanzz/your-repo-name.git](https://github.com/Nikanzz/your-repo-name.git)
     ```
 
-2.  **Masuk ke direktori proyek:**
+2.  **Navigate to the project directory:**
     ```bash
-    cd nama-repo-anda
+    cd your-repo-name
     ```
 
 3.  **Install dependencies:**
     ```bash
     npm install
-    # atau
+    # or
     yarn install
     ```
 
-4.  **Jalankan development server:**
+4.  **Run the development server:**
     ```bash
     npm run dev
-    # atau
+    # or
     yarn dev
     ```
 
-5.  Buka [http://localhost:3000](http://localhost:3000) di browser Anda.
+5.  Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🔗 Kontak
+## 🔗 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/jeremia-pinnywan-immanuel](https://www.linkedin.com/in/jeremia-pinnywan-immanuel/)
 * **GitHub:** [@Nikanzz](https://github.com/Nikanzz)
