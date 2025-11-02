@@ -3,7 +3,9 @@ import ProjectCard from '../sub/ProjectCard'
 
 const Projects = () => {
   return (
-    <div className='flex flex-col items-center justify-center py-15'>
+    <div 
+    id='projects'
+    className='flex flex-col items-center justify-center py-15'>
         <h1 className='text-[40px] font-bold text-white mb-5'>My Projects</h1>
         <div 
         className='h-full w-full grid grid-cols-1 md:grid-cols-3 gap-10 px-15'>

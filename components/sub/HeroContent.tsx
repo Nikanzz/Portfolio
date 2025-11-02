@@ -11,7 +11,8 @@ const HeroContent = () => {
     <motion.div
     initial='hidden'
     animate='visible'
-    className='flex flex-row gap-10 items-center justify-center px-20 mt-40 w-full'>
+    id='about-me'
+    className='flex flex-col-reverse md:flex-row gap-10 items-center justify-center px-20 mt-10 md:mt-20 w-full'>
         <div className='h-full w-full flex flex-col items-start justify-center gap-5 m-auto text-start'>
             <motion.div
             variants={slideInFromLeft(0.5)}
@@ -41,7 +42,7 @@ const HeroContent = () => {
 
         <motion.div
         variants={slideInFromRight(0.5)}
-        className='flex justify-center items-center'>
+        className='flex justify-center items-center max-h-[650px] max-w-[650px]'>
             <Image 
             src="/jeremia_profilepicture.PNG" 
             alt="Photo Profile" 
