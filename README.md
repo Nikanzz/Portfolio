@@ -36,7 +36,7 @@ To run this project in your local environment, follow these steps:
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd Jeremia-Portfolio
     ```
 
 3.  **Install dependencies:**
