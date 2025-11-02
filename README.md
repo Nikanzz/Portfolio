@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portofolio Pribadi - Jeremia Pinnywan Immanuel
 
-## Getting Started
+![Header Portofolio](https://user-images.githubusercontent.com/username/repo/screenshot.png) 
+<p align="center">
+  <a href="https://[NAMA-ANDA].vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo">
+  </a>
+</p>
 
-First, run the development server:
+Repositori ini berisi kode untuk situs portofolio pribadi saya, yang dibuat untuk menampilkan proyek, keahlian, dan perjalanan saya sebagai seorang *Computer Science undergraduate*. Situs ini dirancang agar interaktif, responsif, dan menyoroti minat saya di bidang AI, Machine Learning, Networking, dan Cybersecurity.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Fitur Utama
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Desain Responsif:** Tampilan yang sepenuhnya adaptif di perangkat desktop, tablet, maupun mobile.
+* **Animasi Interaktif:** Dibuat dengan **Framer Motion** untuk *user experience* yang dinamis (animasi *slide-in*, *on-scroll*, dan *hover*).
+* **Latar Belakang Video:** Menampilkan latar belakang video *blackhole* yang menarik di bagian *Hero*.
+* **Struktur Komponen:** Dibangun dengan komponen React yang modular dan *reusable* (Navbar, Hero, Skills, Projects, Footer).
+* **SEO Friendly:** Dibuat dengan Next.js yang mendukung *Server-Side Rendering* (SSR).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Teknologi yang Digunakan
 
-To learn more about Next.js, take a look at the following resources:
+* **Framework:** Next.js 14
+* **Bahasa:** TypeScript
+* **Styling:** Tailwind CSS
+* **Animasi:** Framer Motion
+* **Ikon:** React Icons
+* **Deployment:** Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚙️ Menjalankan Secara Lokal
 
-## Deploy on Vercel
+Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah berikut:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1.  **Clone repositori:**
+    ```bash
+    git clone [https://github.com/Nikanzz/nama-repo-anda.git](https://github.com/Nikanzz/nama-repo-anda.git)
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2.  **Masuk ke direktori proyek:**
+    ```bash
+    cd nama-repo-anda
+    ```
+
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    # atau
+    yarn install
+    ```
+
+4.  **Jalankan development server:**
+    ```bash
+    npm run dev
+    # atau
+    yarn dev
+    ```
+
+5.  Buka [http://localhost:3000](http://localhost:3000) di browser Anda.
+
+---
+
+## 🔗 Kontak
+
+* **LinkedIn:** [linkedin.com/in/jeremia-pinnywan-immanuel](https://www.linkedin.com/in/jeremia-pinnywan-immanuel/)
+* **GitHub:** [@Nikanzz](https://github.com/Nikanzz)
