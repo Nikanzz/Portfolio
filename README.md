@@ -61,3 +61,12 @@ To run this project in your local environment, follow these steps:
 
 * **LinkedIn:** [linkedin.com/in/jeremia-pinnywan-immanuel](https://www.linkedin.com/in/jeremia-pinnywan-immanuel/)
 * **GitHub:** [@Nikanzz](https://github.com/Nikanzz)
+
+---
+
+## Acknowledgements 
+
+This portfolio was my first project built using React, Next.js, and Framer Motion. A significant portion of the development was guided by the excellent tutorial [
+Build and Deploy animated Portfolio Website with Next.js and Framer Motion](https://www.youtube.com/watch?v=0siQoaXMmzk) by WebChainDev.
+
+I highly recommend their content for anyone looking to learn modern web development.
