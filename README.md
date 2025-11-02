@@ -1,12 +1,5 @@
 # Portofolio Pribadi - Jeremia Pinnywan Immanuel
 
-![Header Portofolio](https://user-images.githubusercontent.com/username/repo/screenshot.png) 
-<p align="center">
-  <a href="https://[NAMA-ANDA].vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo">
-  </a>
-</p>
-
 Repositori ini berisi kode untuk situs portofolio pribadi saya, yang dibuat untuk menampilkan proyek, keahlian, dan perjalanan saya sebagai seorang *Computer Science undergraduate*. Situs ini dirancang agar interaktif, responsif, dan menyoroti minat saya di bidang AI, Machine Learning, Networking, dan Cybersecurity.
 
 ---
