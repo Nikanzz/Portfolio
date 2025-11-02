@@ -1,10 +1,10 @@
-"use client";
+"use client"
 
 import React from 'react'
 import { motion } from 'framer-motion'
 import { slideInFromLeft, slideInFromRight } from '@/utils/motion'
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
-import Image from "next/image";
+import { FaGithub, FaLinkedin } from 'react-icons/fa'
+import Image from "next/image"
 
 const HeroContent = () => {
   return (
