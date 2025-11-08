@@ -34,9 +34,17 @@ const HeroContent = () => {
 
             <motion.div
             variants={slideInFromLeft(0.9)}
-            className='flex flex-row gap-6'>
+            className='w-full items-center flex flex-col md:flex-row gap-6'>
                 <a href='https://github.com/Nikanzz' className='cursor-pointer'><FaGithub className='h-15 w-15 text-gray-800 hover:text-gray-600'></FaGithub></a>
                 <a href='https://www.linkedin.com/in/jeremia-pinnywan-immanuel/' className='cursor-pointer'><FaLinkedin className='h-15 w-15 text-gray-800 hover:text-gray-600'></FaLinkedin></a>
+                <a 
+                href='/Jeremia_CV.pdf' 
+                target='_blank' 
+                rel='noopener noreferrer' 
+                className='py-3 px-5 text-lg font-semibold text-gray-600 hover:text-gray-400 border border-gray-600 rounded-full hover:border-gray-400'
+                >
+                Download CV
+                </a>
             </motion.div>
         </div>
 
